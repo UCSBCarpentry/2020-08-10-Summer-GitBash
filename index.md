@@ -68,8 +68,9 @@ displayed if the 'eventbrite' field in the header is not set.
 {% if page.eventbrite %}
 <strong>Some adblockers block the registration window. If you do not see the
   registration box below, please check your adblocker settings.
-  Git will definitely require the knowledge from Bash-Shell, If you are planning on skipping the Bash-Shell Lesson, please look 
-  over the lesson before th Git Workshop</strong>
+
+  The Git workshop will build on knowledge from the Bash-Shell workshop, If you are planning on skipping the Bash-Shell Lesson, please 
+  be familiar with your shell terminal or look over the lesson before the Git Workshop</strong>
 <iframe
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
   frameborder="0"
