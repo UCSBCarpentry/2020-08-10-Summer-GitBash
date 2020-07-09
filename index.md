@@ -70,7 +70,7 @@ displayed if the 'eventbrite' field in the header is not set.
   registration box below, please check your adblocker settings.
 
   The Git workshop will build on knowledge from the Bash-Shell workshop, If you are planning on skipping the Bash-Shell Lesson, please 
-  be familiar with your shell terminal or look over the lesson before the Git Workshop</strong>
+  be familiar with your shell terminal or look over the lesson before the Git Workshop </strong>
 <iframe
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
   frameborder="0"
