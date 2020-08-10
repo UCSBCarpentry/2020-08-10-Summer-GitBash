@@ -255,7 +255,7 @@ Everyone who participates in Carpentries activities is required to conform to th
 
 
 Collaborative Notes
-
+{% comment%}
 If you want to use an Etherpad, go to
 
 https://pad.carpentries.org/2020-08-10-UCSB
@@ -265,7 +265,7 @@ e.g., '2015-06-10-esu'.
 
 {% if page.collaborative_notes %}
 <h2 id="collaborative_notes">Collaborative Notes</h2>
-
+{% comment%}
 <p>
 We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
